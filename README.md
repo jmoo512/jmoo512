@@ -14,5 +14,5 @@ https://github.com/pauperbattlebox/mvb-api
 # EDA Samples:
 
 ## MTG Deck Analyzer:
-Reads a standard decklist, grabs data from two APIs, builds a dataframe, exports to csv, viz built in Looker.
+ >Reads a standard decklist, grabs data from two APIs, builds a dataframe, exports to csv, viz built in Looker.
 https://eda.onrender.com/deck_analyzer.html
