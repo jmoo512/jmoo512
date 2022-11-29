@@ -15,3 +15,7 @@ Check out some of my work and projects below!
 ## MTG Deck Analyzer:
  >Reads a standard decklist, grabs data from two APIs, builds a dataframe, exports to csv, viz built in Looker.
 https://eda.onrender.com/deck_analyzer.html
+
+## Pizza Sales Exploration:
+ >General EDA of pizza sales dataset.
+ https://eda.onrender.com/pizza_sales.html
