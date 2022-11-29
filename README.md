@@ -3,13 +3,12 @@
 Check out some of my work and projects below!
 
 # Multiverse Bridge API:
-https://www.multiversebridge.com/
-
-https://github.com/pauperbattlebox/mvb-api
+ >https://www.multiversebridge.com/
+ >
+ >https://github.com/pauperbattlebox/mvb-api
 
 # Multiverse Bridge Data Mapping:
-
-
+ >https://github.com/pauperbattlebox/mvb-auto
 
 # EDA Samples:
 
