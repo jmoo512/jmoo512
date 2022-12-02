@@ -18,7 +18,7 @@ Check out some of my work and projects below!
  
 ## IMDB Scraper:
  >Scrapes IMDB website for top 50 fantasy film info and converts to useable format.
- >https://eda.onrender.com/Top%2050%20Fantasy%20Scraper.html
+ >https://eda.onrender.com/fantasy.html
 
 ## Pizza Sales Exploration:
  >General EDA of pizza sales dataset.
