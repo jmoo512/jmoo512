@@ -17,7 +17,7 @@ Check out some of my work and projects below!
  >https://eda.onrender.com/deck_analyzer.html
  
 ## IMDB Scraper:
- >Scrapes IMDB website for top 50 fantasy film info and converts to useable format.
+ >Scrapes IMDB website for top 50 fantasy film info, converts to dataframe, uses visualizations in Looker to draw conclusions based on correlations.
  >https://eda.onrender.com/fantasy.html
 
 ## Pizza Sales Exploration:
