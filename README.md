@@ -15,6 +15,11 @@ Check out some of my work and projects below!
 
 # EDA Samples:
 
+## Dogs of the Dow Investment Strategy - Work In Progress
+ >Can a passive strategy that rebalances once per year outperform the DJIA?
+ >Web scraping, API usage, data manipulation, visualizations.
+ >https://eda.onrender.com/dogs.html
+
 ## MTG Deck Analyzer:
  >Reads a standard MTG decklist, grabs metadata and pricing data from two APIs, builds a dataframe, exports to csv, vizualization built in Looker.
  >https://eda.onrender.com/deck_analyzer.html
